@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Áurea Finanças - Produtos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Áurea Finanças Estratégicas</h1>
+    <nav>
+      <a href="index.html">Início</a>
+      <a href="produtos.html">Produtos</a>
+      <a href="servicos.html">Serviços</a>
+      <a href="quem-somos.html">Quem Somos</a>
+      <a href="contato.html">Contato</a>
+      <a href="siebert-wp.html">Siebert WP</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Nossos Produtos.</h2>
+    <p>Explore nossas soluções em planejamento financeiro e investimentos.</p>
+  </main>
+</body>
+</html>
